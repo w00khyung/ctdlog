@@ -25,7 +25,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <br/><br/>
   
-  ## GitHub Stats
+  ## 🧸 GitHub Stats & Most used 🧸
   <br/>
   
   ![HyungWook's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctdlog&show_icons=true&theme=radical)<br/><br/>
