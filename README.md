@@ -3,8 +3,7 @@
   ## Hi there, I'm Hyung Wook. 👋
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fctdlog%2Fctdlog%2F&count_bg=%23EFC9EB&title_bg=%23EC9393&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ctdlog)
-
-
+<br/><br/>
   
   ## 🛠 Tech Stack 🛠 
   
@@ -24,8 +23,12 @@
  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <br/><br/>
   
-  ![HyungWook's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctdlog&show_icons=true&theme=radical)
+  ## GitHub Stats
+  <br/>
+  
+  ![HyungWook's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctdlog&show_icons=true&theme=radical)<br/><br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctdlog&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--   🧸 Me 🧸 -->
