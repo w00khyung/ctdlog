@@ -1,6 +1,9 @@
 <div align="center">
 
-  ## Hi there, I'm Hyung Wook. 👋
+  ## 현재 공부중인 프론트엔드 주니어 개발자입니다.👋
+  
+  Email: qpflapffhs76@gmail.com <br>
+  Blog: https://velog.io/@ctdlog <br><br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fctdlog%2Fctdlog%2F&count_bg=%23EFC9EB&title_bg=%23EC9393&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ctdlog)
 <br/><br/>
