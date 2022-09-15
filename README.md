@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## 현재 공부중인 프론트엔드 주니어 개발자입니다.👋
+  ## 프론트엔드 개발자, 최형욱입니다. 👋
   
   Email: qpflapffhs76@gmail.com <br>
   Blog: https://velog.io/@ctdlog <br><br>
