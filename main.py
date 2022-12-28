@@ -1,18 +1,9 @@
-import feedparser
+import feedparser, time
 
-somjang_blog_rss_url = "https://somjang.tistory.com/rss"
-rss_feed = feedparser.parse(somjang_blog_rss_url)
+URL="https://v2.velog.io/rss/ctdlog"
+RSS_FEED = feedparser.parse(URL)
+MAX_POST=7
 
-MAX_POST_NUM = 10
-
-latest_blog_post_list = ""
-
-for idx, feed in enumerate(rss_feed['entries']):
-    if idx > MAX_POST_NUM:
-        break
-    feed_date = feed['published_parsed']
-    latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
-    
 markdown_text = """
 <h3 align="center">
 
@@ -40,11 +31,17 @@ markdown_text = """
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 
 </p>
-"""
+""" # list of blog posts will be appended here
 
-readme_text = f"{markdown_text}{latest_blog_post_list}"
 
-with open("README.md", 'w', encoding='utf-8') as f:
-    f.write(readme_text)
+for idx, feed in enumerate(RSS_FEED['entries']):
+    if idx > MAX_POST:
+        break
+    else:
+        feed_date = feed['published_parsed']
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
+f = open("README.md",mode="w", encoding="utf-8")
+f.write(markdown_text)
+f.close()
 
