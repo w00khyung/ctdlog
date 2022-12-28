@@ -31,10 +31,11 @@ markdown_text = """
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 
 </p>
+<br/>
 
 ---
 
-<h3> 📌 Latest Blog Posts </h3> <br />
+### 📌 Latest Blog Posts </h3> <br />
 """ # list of blog posts will be appended here
 
 
