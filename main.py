@@ -2,7 +2,7 @@ import feedparser, time
 
 URL="https://v2.velog.io/rss/ctdlog"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=7
+MAX_POST=5
 
 markdown_text = """
 <h3 align="center">
