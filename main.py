@@ -18,7 +18,7 @@ markdown_text = """
   <a href="mailto:qpflapffhs76@gmail.com"><img src="https://img.shields.io/badge/Email-44A833?style=flat-square&logo=Mail.Ru&logoColor=white&link=qpflapffhs76@gmail.com"/></a>&nbsp
 </p>
 
-<h3 align="center">🔍 Tech Stack </h3>
+<h3 align="center">⚙️ Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
