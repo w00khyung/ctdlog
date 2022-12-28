@@ -12,13 +12,13 @@ markdown_text = """
 </h3>
 
 
-<h3 align="center">🚀 Follow Me 🚀</h3>
+<h3 align="center">🚀 Follow Me </h3>
 <p align="center">
   <a href="https://velog.io/@ctdlog"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ctdlog"/></a>&nbsp
   <a href="mailto:qpflapffhs76@gmail.com"><img src="https://img.shields.io/badge/Email-44A833?style=flat-square&logo=Mail.Ru&logoColor=white&link=qpflapffhs76@gmail.com"/></a>&nbsp
 </p>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🔍 Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -35,7 +35,7 @@ markdown_text = """
 
 ---
 
-### 📌 Latest Blog Posts </h3> 
+### 📕 Latest Blog Posts </h3> 
 """ # list of blog posts will be appended here
 
 
