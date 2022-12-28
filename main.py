@@ -32,7 +32,9 @@ markdown_text = """
 
 </p>
 
-📌 Latest Blog Posts
+---
+
+<h3> 📌 Latest Blog Posts </h3> <br />
 """ # list of blog posts will be appended here
 
 
