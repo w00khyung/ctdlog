@@ -1,7 +1,7 @@
 
 <h3 align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Zero&fontAlign=75&fontAlignY=50&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Zero&fontAlign=80&fontAlignY=50&fontSize=80&fontColor=ffffff)
 
 </h3>
 
