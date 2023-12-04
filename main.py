@@ -5,14 +5,6 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST=5
 
 markdown_text = """
-<h3 align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=&fontAlign=80&fontAlignY=50&fontSize=80&fontColor=ffffff)
-
-</h3>
-
----
-
 ### 📕 Latest Blog Posts </h3> 
 """ # list of blog posts will be appended here
 
